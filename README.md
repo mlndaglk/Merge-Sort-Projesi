@@ -4,7 +4,7 @@ Proje 2
 
 [16,21,11,8,12,22] -> Merge Sort
 
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
   [16,21,11,8,12,22] 
   
@@ -20,6 +20,6 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
             [8,11,12,16,21,22]  
 
-Big-O gösterimini yazınız.
+-Big-O gösterimini yazınız.
 
 Merge sort'un Big o gösterimi: O(nlogn).n=6 olduğundan O(6log6) olacaktır.
